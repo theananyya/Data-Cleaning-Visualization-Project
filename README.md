@@ -31,16 +31,14 @@ The raw sales dataset is imported using Pandas for further processing.
 The cleaned dataset is stored for future analysis.
 
 ### 4. Data Visualization
-
 Three different visualizations are generated:
-
-#### Distribution Plot
+1 Distribution Plot
 Analyzes the distribution of numerical data.
 
-#### Scatter Plot
+2 Scatter Plot
 Shows relationships between numerical variables.
 
-#### Correlation Heatmap
+3 Correlation Heatmap
 Displays correlation strength among numerical features.
 
 ## Generated Outputs
